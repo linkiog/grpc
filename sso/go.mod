@@ -1,3 +1,3 @@
-module github.com/linkiog/grpc
+module github.com/linkiog/sso
 
 go 1.22.5
